@@ -10,7 +10,7 @@ function verificador_opcao_modulo(modulo){
     if(/1|2|3|4|complet[ao][s]?|tuor/i.test(modulo)){
       window.alert(`Módulo selecionado! 🐸`)
     } else{
-      window.alert("Esse módulo não existe... Reinicie a página. 🦞")
+      window.alert("Reinicie esta página. 🦞")
     }
   }
 
